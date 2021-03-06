@@ -1,4 +1,4 @@
-# Tailwind CSS as a PostCSS Plugin
+<!-- # Tailwind CSS as a PostCSS Plugin
 
 A starter template for very simple projects (no frameworks) with Tailwind CSS setup as a PostCSS plugin. You only need to install NPM.
 
@@ -55,4 +55,7 @@ Before pushing your code (the `public` folder) for production, run the below com
 
 NOTE: If you are using Windows and face an error `NODE ENV not recognised`, run the below command
 
-     npm install win-node-env
+     npm install win-node-env -->
+
+
+## In windows use `set NODE_ENV`
